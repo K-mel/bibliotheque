@@ -1,0 +1,1 @@
+alert("Le fichier a bien été relié");
